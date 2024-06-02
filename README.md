@@ -20,7 +20,7 @@ when `j` represents the lab number.
 
  ## Labs
 
- ### Lab 1
+ ### [Lab 1](#Lab_1)
  #### Aim of the Laboratory:
   - Obtaining skills in VHDL code (part 1, which contains Code Structure, Data Types, Operators and Attributes, Concurrent Code, Design Hierarchy, Packages and Components).
   - Obtaining basic skills in ModelSim (multi-language HDL simulation environment).
@@ -33,7 +33,7 @@ Design a module which contains the next three sub-modules:
 3. Boolean Logic operates bitwise.
 The generic n value must be verified for 4,8,16,32 (set from tb.vhd file). You are required to design the whole system and make a test bench for testing.
 
-### Lab 2
+### [Lab 2](#Lab_2)
 #### Aim of the Laboratory:
 - Obtaining skills in VHDL code (part 2, which contains Sequential code and Behavioral modeling).
 - Obtaining basic skills in ModelSim (multi-language HDL simulation environment).

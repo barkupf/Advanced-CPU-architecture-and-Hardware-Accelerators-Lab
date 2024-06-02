@@ -5,8 +5,8 @@ Each task folder contains both the task files provided for the task and the subm
 ## Table of contents 🔗
 - [Structure](#Structure)
 - [Labs](#Labs)
-    - [Lab 1](#Lab1)
-    - [Lab 2](#Lab2)
+    - [Lab 1](#Lab_1)
+    - [Lab 2](#Lab_2)
 
  ## Structure
 For each Lab task will be 2 folders:

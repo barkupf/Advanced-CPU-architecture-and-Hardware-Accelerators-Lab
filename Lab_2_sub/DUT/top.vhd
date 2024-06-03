@@ -74,7 +74,6 @@ pros_3:	process(clk,rst,ena,valid) --
 						det := '1';
 					end if;
 				else
-				--	counter := 0;
 				end if;
 			end if;
 			detector <= det;

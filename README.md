@@ -7,6 +7,8 @@ Each task folder contains both the task files provided for the task and the subm
 - [Labs](#Labs)
     - [Lab 1](#1)
     - [Lab 2](#2)
+    - [Lab 3](#3)
+    - [Lab 4](#4)
 
  ## Structure
 For each Lab task will be 2 folders:
@@ -42,3 +44,19 @@ The generic n value must be verified for 4,8,16,32 (set from tb.vhd file). You a
 #### Lab task:
 Design a synchronous digital system which detects valid sub series for a given
 condition value. You are required to design the whole system and make a test bench for testing.
+
+### Lab 3
+#### Aim of the Laboratory:
+- System design using concurrent and sequential logic principles using advanced simulation methods (based on material given in LAB1 and LAB2 tasks).
+- Controller design based on methodology of Control and Datapath separation.
+- Preparation for LAB4 task – FPGA based design synthesis of a given design.
+- Proper analysis and understanding of architecture design.
+#### Lab task:
+Design a controller-based processing machine as a Multi-cycle CPU in order to run a given program code.
+
+### Lab 4
+#### Aim of the Laboratory:
+- Understanding of digital system synthesis.
+- FPGA design as a target HW.
+#### Lab task:
+Synthesize a Synchronous Digital System based on LAB 1 assignment for the Cyclone II FPGA with impact on performance and logic usage.

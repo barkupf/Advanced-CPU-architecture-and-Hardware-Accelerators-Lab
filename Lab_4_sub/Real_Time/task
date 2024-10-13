@@ -1,0 +1,2 @@
+This lab had a real time task - to add a new PWM mode to the system.
+The new mode toggle mode. The VHDL files in this folder reaplace the PWM file in the submission version of the task.
